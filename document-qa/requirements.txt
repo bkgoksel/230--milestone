@@ -1,0 +1,6 @@
+nltk
+tqdm
+ujson
+pandas
+scikit-learn
+scipy
